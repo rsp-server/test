@@ -1,4 +1,4 @@
-name: This is a hello-world example
+- name: test Hello World Sample
   hosts: all
   tasks:
     - name: Create a file called '/tmp/testfile.txt' with the content 'hello world'.
